@@ -1,12 +1,11 @@
 # 🌤️ Intelligent Weather Assistant - Professional Pro Project
 
-<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/c1fa59f0-c389-4144-9b23-333cc8dcc229" />
-
-<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/fae825ea-6c38-4cee-80cd-ce56c8e1f437" />
-
-<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/b120ed1f-5d8a-4f97-8e1a-bba44218773e" />
-
-<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/563fd993-cae1-42f3-a308-759f1bdf91b0" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1fa59f0-c389-4144-9b23-333cc8dcc229" width="22%" />
+  <img src="https://github.com/user-attachments/assets/fae825ea-6c38-4cee-80cd-ce56c8e1f437" width="22%" />
+  <img src="https://github.com/user-attachments/assets/b120ed1f-5d8a-4f97-8e1a-bba44218773e" width="22%" />
+  <img src="https://github.com/user-attachments/assets/563fd993-cae1-42f3-a308-759f1bdf91b0" width="22%" />
+</p>
 
 
 A next-generation Weather Application built for the internship evaluation. This app goes beyond basic temperature reporting to provide real-time, actionable life insights using modern Android development practices.
