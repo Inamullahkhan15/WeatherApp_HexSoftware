@@ -1,5 +1,14 @@
 # 🌤️ Intelligent Weather Assistant - Professional Pro Project
 
+<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/c1fa59f0-c389-4144-9b23-333cc8dcc229" />
+
+<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/fae825ea-6c38-4cee-80cd-ce56c8e1f437" />
+
+<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/b120ed1f-5d8a-4f97-8e1a-bba44218773e" />
+
+<img width="1080" height="2340" alt="Image" src="https://github.com/user-attachments/assets/563fd993-cae1-42f3-a308-759f1bdf91b0" />
+
+
 A next-generation Weather Application built for the internship evaluation. This app goes beyond basic temperature reporting to provide real-time, actionable life insights using modern Android development practices.
 
 ## 🚀 Key Professional Highlights
@@ -22,7 +31,7 @@ These unique features were implemented to demonstrate a consumer-centric approac
     - Dynamic "Success Score" for daily activities like **Cricket/Sports**, **Outdoor Dining**, **Picnic**, and even **Laundry Day** feasibility.
 
 4.  **☀️ Vitamin D & Sunlight Tracker**
-    - Calculated sun exposure time required for daily Vitamin D based on cloud cover and UV factors.
+    - Calculated sun exposure time required for daily vitamin D based on cloud cover and UV factors.
     - Real-time **Sunrise/Sunset** tracking.
 
 5.  **🤳 Hyper-Local Community Reporting**
